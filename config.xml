@@ -6,10 +6,10 @@
     version     = "0.0.2" >
 
 
-  <name>Notepad</name>
+  <name>Notes</name>
 
   <description>
-      Notepad
+      Notes
   </description>
 
   <author href="https://build.phonegap.com" email="support@phonegap.com">
