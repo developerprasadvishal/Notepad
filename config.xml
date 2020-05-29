@@ -15,5 +15,5 @@
   <author href="https://build.phonegap.com" email="support@phonegap.com">
       Vishal Prasad
   </author>
-    <icon src="icon.ico"/>
+    <icon src="icon.png"/>
 </widget>
